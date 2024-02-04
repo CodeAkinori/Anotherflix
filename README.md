@@ -21,22 +21,22 @@
 
 ### Baixe o projeto e extraia em uma pasta
 ### Crie um ambiente virtual
-python -m venv venv
+`python -m venv venv`
 
 ### Ative o ambiente virtual
 ### Windows
-venv\Scripts\activate
+`venv\Scripts\activate`
 ### Linux/Mac
-source venv/bin/activate
+`source venv/bin/activate`
 
 # Instale as dependências
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 # Entre na pasta do projeto
-cd anotherflix
+`cd anotherflix`
 
 # Execute o projeto
-python manage.py runserver
+`python manage.py runserver`
 
 ## Como Usar
 
