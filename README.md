@@ -19,15 +19,14 @@
 
 ## Instalação e Configuração
 
-\```bash
-# Baixe o projeto e extraia em uma pasta
-# Crie um ambiente virtual
+### Baixe o projeto e extraia em uma pasta
+### Crie um ambiente virtual
 python -m venv venv
 
-# Ative o ambiente virtual
-# Windows
+### Ative o ambiente virtual
+### Windows
 venv\Scripts\activate
-# Linux/Mac
+### Linux/Mac
 source venv/bin/activate
 
 # Instale as dependências
@@ -38,7 +37,6 @@ cd anotherflix
 
 # Execute o projeto
 python manage.py runserver
-\```
 
 ## Como Usar
 
